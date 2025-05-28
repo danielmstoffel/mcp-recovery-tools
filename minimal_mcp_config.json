@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "node",
+      "args": ["/Users/daniel/mcp/servers/filesystem/index.js"],
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  },
+  "diagnosticMode": true,
+  "logLevel": "debug"
+}
